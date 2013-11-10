@@ -14,7 +14,6 @@ BuildRequires:	OpenGTL-devel >= 0.9.16
 BuildRequires:	cmake >= 2.6
 BuildRequires:	pkgconfig
 BuildRequires:	qt4-build >= 4
-Requires:	%{name}-libs = %{version}-%{release}
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
