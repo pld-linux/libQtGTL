@@ -26,7 +26,7 @@ Interfejsy Qt do języka przekształceń graficznych GTL.
 %package devel
 Summary:	Header files for QtGTL libraries
 Summary(pl.UTF-8):	Pliki nagłówkowe bibliotek QtGTL
-Group:		Development/Languages
+Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 Requires:	OpenGTL-devel >= 0.9.16
 Requires:	QtCore-devel >= 4
